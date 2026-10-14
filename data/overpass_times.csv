@@ -1,0 +1,9 @@
+case_number,region,satellite,start_date,pass_time
+6,baffin_bay,terra,2022-05-30,2022-05-30 16:44:44
+6,baffin_bay,aqua,2022-05-30,2022-05-30 15:28:46
+63,beaufort_sea,terra,2007-07-11,2007-07-11 20:44:14
+63,beaufort_sea,aqua,2007-07-11,2007-07-11 19:26:11
+108,greenland_sea,aqua,2018-06-10,2018-06-10 13:20:56
+108,greenland_sea,terra,2018-06-10,2018-06-10 13:03:04
+138,hudson_bay,aqua,2020-05-09,2020-05-09 17:56:08
+138,hudson_bay,terra,2020-05-09,2020-05-09 17:41:51
